@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Jane Doe | Mathematics PhD Student"
+title: "Emilio Dominguez"
 ---
 <!-- Optional: Load MathJax for LaTeX equations on GitHub Pages -->
 <script type="text/javascript" id="MathJax-script" async

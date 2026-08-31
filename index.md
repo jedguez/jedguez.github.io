@@ -35,12 +35,9 @@ Department of Mathematics [UMD]
 **Links:** [CV (PDF)](assets/cv.pdf) | [ORCID](https://orcid.org/0000-0002-6227-4184)
 ---
 ## About Me
-I am a 6-th year PhD student in the Department of Mathematics the University of Maryland, College Park. My advisor is [Amin Gholampour](https://math.umd.edu/~amingh/).
-### Research Interests
-My research in:
-- Topic A (e.g., *Arithmetic Geometry and Motives*)
-- Topic B (e.g., *Deformation theory of Galois representations*)
-- Topic C (e.g., *Moduli spaces of $\mathcal{M}_{g,n}$*)
+I am a 6-th year PhD student in the Department of Mathematics the University of Maryland, College Park. My advisor is [Amin Gholampour](https://math.umd.edu/~amingh/). I will graduate in May 2027.
+### Research
+My research lies in algebraic geometry, mostly in intersection theory. I study virtual cycles for certain moduli spaces, with applications to counting curves on surfaces. I am also interested in GW-theory, and combinatorics.
 ---
 ## Preprints & Publications
 1. **Virtual cycles of 3-term complexes and the Hilbert schemes of surfaces**  
@@ -50,7 +47,7 @@ My research in:
 2. **Extending free group action on surfaces**  
    *Emilio Dominguez, Carlos Segovia.*  
    *Topology and its Applications* (2022).  
-   [DOI: 10.1016](https://doi.org/10.1016/j.topol.2021.107898) | [arXiv](https://arxiv.org/abs/2012.02464))
+   [DOI: 10.1016](https://doi.org/10.1016/j.topol.2021.107898) | [arXiv](https://arxiv.org/abs/2012.02464)
 3. **Barabasi-Albert trees are hypoenergetic**  
    *Octavio Arizmendi,Emilio Dominguez.*  
    *Boletín de la Sociedad Matemática Mexicana* (2022).  

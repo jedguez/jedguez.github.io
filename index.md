@@ -49,5 +49,5 @@ My research lies in algebraic geometry, particularly in intersection theory. I s
 3. **Barabasi-Albert trees are hypoenergetic**  
    *Octavio Arizmendi, Emilio Dominguez.*  
    *Boletín de la Sociedad Matemática Mexicana* (2022).  
-   [DOI: 10.1007](https://doi.org/10.1007/s40590-022-00465-0) | [arXiv](https://arxiv.org/abs/2009.13784)
+   [DOI: 10.1007](https://doi.org/10.1007/s40590-022-00465-0) | [arXiv](https://arxiv.org/abs/2009.13784)<br>
 <small style="color: #666;">Last updated: August 2026</small>

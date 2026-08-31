@@ -71,6 +71,6 @@ My research in:
 - **Office Hours:** Tuesdays & Thursdays 2:00 PM – 4:00 PM (or by appointment)
 ### Past Courses
 - *MATH 202: Multivariable Calculus* (TA, Spring 2025)
-- *MATH 102: Calculus II* (TA, Fall 2024)-->
+- *MATH 102: Calculus II* (TA, Fall 2024)--!>
 ---
 <small style="color: #666;">Last updated: August 2026</small>

@@ -55,22 +55,4 @@ My research in:
    *Octavio Arizmendi,Emilio Dominguez.*  
    *Boletín de la Sociedad Matemática Mexicana* (2022).  
    [DOI: 10.1007](https://doi.org/10.1007/s40590-022-00465-0) | [arXiv](https://arxiv.org/abs/2009.13784)
-   <!--
----
-## Talks & Presentations
-- **[Conference/Seminar Name]**, *University of Example* — *Month Year*  
-  *Title:* "Recent advances in $L$-functions and modular forms"  
-  [[Slides](assets/talk-slides.pdf)]
-- **Graduate Student Seminar**, *[Your University]* — *Month Year*  
-  *Title:* "An introduction to spectral sequences"
----
-## Teaching
-### At [University Name]
-- **Spring 2026:** Teaching Assistant — *MATH 215: Linear Algebra & Differential Equations*
-- **Fall 2025:** Primary Instructor — *MATH 101: Calculus I*
-- **Office Hours:** Tuesdays & Thursdays 2:00 PM – 4:00 PM (or by appointment)
-### Past Courses
-- *MATH 202: Multivariable Calculus* (TA, Spring 2025)
-- *MATH 102: Calculus II* (TA, Fall 2024)--!>
----
 <small style="color: #666;">Last updated: August 2026</small>

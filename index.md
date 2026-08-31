@@ -2,6 +2,18 @@
 layout: default
 title: "Emilio Dominguez"
 ---
+<style>
+  /* Hides the left sidebar */
+  header { display: none !important; }
+  
+  /* Makes the main content full width and centered */
+  section {
+    width: 100% !important;
+    max-width: 800px;
+    margin: 40px auto !important;
+    float: none !important;
+  }
+</style>
 <script type="text/javascript" id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>

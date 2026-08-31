@@ -14,17 +14,16 @@ title: "Emilio Dominguez"
   };
 </script>
 # Emilio Dominguez
-<img src="assets/profile.jpg" alt="Emilio Dominguez" align="right" width="180" style="border-radius: 50%; margin-left: 20px;">
+<img src="assets/profile.jpg" alt="text?" align="right" width="180" style="border-radius: 50%; margin-left: 20px;">
 **PhD Student in Mathematics**  
-Department of Mathematics  
-[UMD]  
+Department of Mathematics [UMD]  
 **Advisor:** Prof. Amin Gholampour  
 **Email:** `jedguezr [at] umd [dot] edu`  
 **Office:** Room 4302, William E Kirwan Hall 
-**Links:** [CV (PDF)](assets/cv.pdf) | [ORCID]([https://orcid.org/...](https://orcid.org/0000-0002-6227-4184))
+**Links:** [CV (PDF)](assets/cv.pdf) | [ORCID](https://orcid.org/0000-0002-6227-4184)
 ---
 ## About Me
-I am a 6-th year PhD student in the Department of Mathematics at University of Maryland, advised by Amin Gholampour.
+I am a 6-th year PhD student in the Department of Mathematics the University of Maryland, College Park. My advisor is [Amin Gholampour](https://math.umd.edu/~amingh/).
 ### Research Interests
 My research in:
 - Topic A (e.g., *Arithmetic Geometry and Motives*)

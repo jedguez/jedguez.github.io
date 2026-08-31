@@ -30,15 +30,13 @@ title: "Emilio Dominguez"
 **PhD Student in Mathematics**  
 Department of Mathematics [UMD]  
 **Advisor:** Prof. Amin Gholampour  
-**Email:** `jedguezr [at] umd [dot] edu`  
-**Office:** Room 4302, William E Kirwan Hall 
+**Email:** `jedguezr[at]umd[dot]edu`  
+**Office:** Room 4302, William E Kirwan Hall<br>
 **Links:** [CV (PDF)](assets/cv.pdf) | [ORCID](https://orcid.org/0000-0002-6227-4184)
----
 ## About Me
 I am a 6-th year PhD student in the Department of Mathematics the University of Maryland, College Park. My advisor is [Amin Gholampour](https://math.umd.edu/~amingh/). I will graduate in May 2027.
 ### Research
-My research lies in algebraic geometry, mostly in intersection theory. I study virtual cycles for certain moduli spaces, with applications to counting curves on surfaces. I am also interested in GW-theory, and combinatorics.
----
+My research lies in algebraic geometry, mostly in intersection theory. I study virtual cycles for certain moduli spaces, with applications to counting curves on surfaces. I am also interested in GW-theory, and combinatorics.<br>
 ## Preprints & Publications
 1. **Virtual cycles of 3-term complexes and the Hilbert schemes of surfaces**  
    *Emilio Dominguez, Amin Gholampour.*  

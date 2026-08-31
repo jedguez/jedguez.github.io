@@ -14,8 +14,8 @@ title: "Emilio Dominguez"
     }
   };
 </script>
-# Jane Doe
-<img src="assets/profile.jpg" alt="Jane Doe" align="right" width="180" style="border-radius: 50%; margin-left: 20px;">
+# Emilio Dominguez
+<img src="assets/profile.jpg" alt="Emilio Dominguez" align="right" width="180" style="border-radius: 50%; margin-left: 20px;">
 **PhD Student in Mathematics**  
 Department of Mathematics  
 [University Name]  
@@ -34,7 +34,7 @@ My research lies at the intersection of **[Primary Field]** and **[Secondary Fie
 ---
 ## Preprints & Publications
 1. **Title of Your Latest Preprint**  
-   *Jane Doe, Coauthor Name.*  
+   *Emilio Dominguez, Coauthor Name.*  
    *Preprint (2026).*  
    [arXiv:2601.XXXXX](https://arxiv.org/) | [PDF](assets/paper1.pdf) | [Code](https://github.com/...)  
    <details>
@@ -44,7 +44,7 @@ My research lies at the intersection of **[Primary Field]** and **[Secondary Fie
    </blockquote>
    </details>
 2. **A Published Journal Article Title**  
-   *Jane Doe.*  
+   *Emilio Dominguez.*  
    *Journal of Pure Mathematics* (2025), 45(2), 112–135.  
    [DOI: 10.xxxx/xxxxx](https://doi.org/) | [arXiv](https://arxiv.org/) | [PDF](assets/paper2.pdf)
 ---

@@ -36,7 +36,7 @@ Department of Mathematics [UMD]
 ## About Me
 I am a 6-th year PhD student in the Department of Mathematics the University of Maryland, College Park. My advisor is [Amin Gholampour](https://math.umd.edu/~amingh/). I will graduate in May 2027.
 ### Research
-My research lies in algebraic geometry, mostly in intersection theory. I study virtual cycles for certain moduli spaces, with applications to counting curves on surfaces. I am also interested in GW-theory, and combinatorics.<br>
+My research lies in algebraic geometry, particularly in intersection theory. I study virtual cycles of certain moduli spaces, with applications to counting curves on surfaces. I am also interested in GW-theory and combinatorics.<br>
 ## Preprints & Publications
 1. **Virtual cycles of 3-term complexes and the Hilbert schemes of surfaces**  
    *Emilio Dominguez, Amin Gholampour.*  
@@ -47,7 +47,7 @@ My research lies in algebraic geometry, mostly in intersection theory. I study v
    *Topology and its Applications* (2022).  
    [DOI: 10.1016](https://doi.org/10.1016/j.topol.2021.107898) | [arXiv](https://arxiv.org/abs/2012.02464)
 3. **Barabasi-Albert trees are hypoenergetic**  
-   *Octavio Arizmendi,Emilio Dominguez.*  
+   *Octavio Arizmendi, Emilio Dominguez.*  
    *Boletín de la Sociedad Matemática Mexicana* (2022).  
    [DOI: 10.1007](https://doi.org/10.1007/s40590-022-00465-0) | [arXiv](https://arxiv.org/abs/2009.13784)
 <small style="color: #666;">Last updated: August 2026</small>

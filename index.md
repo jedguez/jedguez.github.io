@@ -26,7 +26,7 @@ title: "Emilio Dominguez"
   };
 </script>
 # Emilio Dominguez
-<img src="assets/profile.jpeg" alt="Emilio Dominguez" align="right" width="350" style="margin-left: 25px; margin-bottom: 15px; aspect-ratio: 1/1; object-fit: cover; border-radius: 20%;">
+<img src="assets/profile.jpeg" alt="Emilio Dominguez" align="right" width="300" style="margin-left: 25px; margin-bottom: 15px; aspect-ratio: 1/1; object-fit: cover; border-radius: 20%;">
 **PhD Student in Mathematics**  
 Department of Mathematics [UMD]  
 **Advisor:** Prof. Amin Gholampour  

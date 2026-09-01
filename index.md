@@ -36,7 +36,7 @@ Department of Mathematics [UMD]
 ## About Me
 I am a 6-th year PhD student in the Department of Mathematics the University of Maryland, College Park. My advisor is [Amin Gholampour](https://math.umd.edu/~amingh/). I will graduate in May 2027.
 ### Research
-My research lies in algebraic geometry, particularly in intersection theory. I study virtual cycles of certain moduli spaces, with applications to counting curves on surfaces. I am also interested in GW-theory and combinatorics.<br>
+My research lies in algebraic geometry, particularly in intersection theory. I study virtual cycles of certain moduli spaces, with applications to counting curves on surfaces and Vafa-Witten theory. I am also interested in GW-theory and combinatorics.<br>
 ## Preprints & Publications
 1. **Virtual cycles of 3-term complexes and the Hilbert schemes of surfaces**  
    *Emilio Dominguez, Amin Gholampour.*  

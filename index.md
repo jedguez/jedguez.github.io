@@ -40,7 +40,6 @@ My research lies in algebraic geometry, particularly in intersection theory. I s
 ## Preprints & Publications
 1. **Virtual cycles of 3-term complexes and the Hilbert schemes of surfaces**  
    *Emilio Dominguez, Amin Gholampour.*  
-   *Submitted to Geometry & Topology (2026).*  
    [arXiv:2606.29542](https://arxiv.org/abs/2606.29542)
 2. **Extending free group action on surfaces**  
    *Emilio Dominguez, Carlos Segovia.*  

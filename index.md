@@ -32,7 +32,7 @@ Department of Mathematics [UMD]
 **Advisor:** Prof. Amin Gholampour  
 **Email:** `jedguezr[at]umd[dot]edu`  
 **Office:** Room 4302, William E Kirwan Hall<br>
-**Links:** [CV (PDF)](assets/cv.pdf) | [ORCID](https://orcid.org/0000-0002-6227-4184)
+**Links:** [CV (PDF)](assets/cvlong.pdf) | [ORCID](https://orcid.org/0000-0002-6227-4184)
 ## About Me
 I am a 6-th year PhD student in the Department of Mathematics the University of Maryland, College Park. My advisor is [Amin Gholampour](https://math.umd.edu/~amingh/). I will graduate in May 2027.
 ### Research
